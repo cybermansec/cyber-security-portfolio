@@ -6,7 +6,7 @@ Currently building strong foundations in Linux, networking, and web security.
 
 ## 📜 Certificates
 - **TryHackMe – Pre-Security Learning Path** 
-  [View Certificate](THM_Pre-Security_Certificate.pdf)
+  [View Certificate](THM-NGEXW5JRNE.pdf)
 - Cisco NetAcad – Introduction to Cybersecurity
 - Cisco NetAcad – Networking Basics
 
